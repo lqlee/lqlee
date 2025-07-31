@@ -3,7 +3,7 @@
 - 🔭 I’m a Senior Software Engineer. mostly backend/APIs, sometimes frontend.
 - 🌱 I'm learning/practicing on making some videos and sharing on Youtube.
 - 🤔 I like talking/convincing with code/test.
-- 💬 Chanlenging/proving what we already know/thought we know with code 
+- 💬 Chanlenging/proving what we already know/thought we know with [code](https://github.com/lqlee/languageSpeed) 
 - 📫 How to reach me: [email](liqlee@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  Jogging,  Motorcycling, etc
