@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Liqun. 👋
 
+- 🔭 I’m a Senior Software Engineer. mostly backend/APIs, sometimes frontend.
+- 🌱 
+- 👯 
+- 🤔 
+- 💬 
+- 📫 How to reach me: [email](liqlee@gmail.com)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Jogging, Motorcycling, etc
 <!--
 **lqlee/lqlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
