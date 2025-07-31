@@ -5,7 +5,7 @@
 - 🤔 I like talking/convincing with code/test.
 - 💬 Chanlenging/proving what we already know/thought we know with code 
 - 📫 How to reach me: [email](liqlee@gmail.com)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:  Jogging,  Motorcycling, etc
 <!--
 **lqlee/lqlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
