@@ -1,8 +1,8 @@
 ## Hi there, I'm Liqun. 👋
 
 - 🔭 I’m a Senior Software Engineer. mostly backend/APIs, sometimes frontend.
-- 🌱 
 - 👯 
+- 🌱 I'm learning/practicing on making some videos and sharing on Youtube.
 - 🤔 
 - 💬 
 - 📫 How to reach me: [email](liqlee@gmail.com)
