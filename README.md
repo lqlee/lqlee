@@ -6,7 +6,7 @@
 - 💬 Chanlenging/proving what we already know/thought we know with [code](https://github.com/lqlee/languageSpeed) 
 - 📫 How to reach me: [email](liqlee@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  Jogging🏃,  Motorcycling🚲, etc
+- ⚡ Fun fact:  Jogging🏃,  Motorcycling🚲, Appliance fixing💪, etc
 <!--
 **lqlee/lqlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
